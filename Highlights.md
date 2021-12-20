@@ -1,10 +1,9 @@
 ---
-title: ""
+title: "Highlights"
 permalink: "/highlights/"
 layout: page
 ---
 
-## Highlights
 - Poster session at NASA Neil A. Armstrong Flight Research Center
 - Showcasing Autonomy Research Center for STEAHM (ARCS) Research to the CSU Chancellor Joseph Castro <strong>[Learn More](https://csunshinetoday.csun.edu/university-news/csu-chancellor-visits-csun-campus-participates-in-community-open-forum/)</strong>
 - 
