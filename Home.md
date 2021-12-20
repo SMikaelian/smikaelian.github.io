@@ -22,7 +22,8 @@ Graduation Date: Spring 2020
 - [August 2020 – December 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
 - [May 2020 – August 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
 - [December 2019 – Present] Research Fellow at CSUN Autonomy Research Center for STEAHM, Northridge, CA
-- [June 2019 – August 2019] Innovation Corps by The National Science Foundation, Northridge, CA
+- [June 2019 – August 2019] Entrepreneurship Intern at Innovation Corps by The National Science Foundation, Northridge, CA
+- [May 2015 – August 2018] System Administrator at SecureNet Solutions Inc., Los Angeles, CA
 
 ## Projects & Professional Involvement
 
