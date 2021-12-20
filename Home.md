@@ -5,15 +5,16 @@ layout: page
 ---
 
 ## Education
-
-Master of Science in Systems Architecting & Engineering \n
-University of Southern California, CA \n
+```
+Master of Science in Systems Architecting & Engineering
+University of Southern California, CA
 Graduation Date: Fall 2023
-
-Bachelor of Science in Computer Science \n
-California State University, Northridge, CA \n
+```
+```
+Bachelor of Science in Computer Science
+California State University, Northridge, CA
 Graduation Date: Spring 2020
-
+```
 ## Work Experience
 
 - [June 2021 – Present] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
