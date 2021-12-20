@@ -1,27 +1,27 @@
 ---
-title: "Home"
+#title: "Home"
 permalink: "/home/"
 layout: page
 ---
 
 ## Education
 
-Master of Science in Systems Architecting & Engineering
-University of Southern California, CA
+Master of Science in Systems Architecting & Engineering \n
+University of Southern California, CA \n
 Graduation Date: Fall 2023
 
-Bachelor of Science in Computer Science 
-California State University, Northridge, CA
+Bachelor of Science in Computer Science \n
+California State University, Northridge, CA \n
 Graduation Date: Spring 2020
 
 ## Work Experience
 
-[June 2021 – Present] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-[January 2021 – Present] NASA Langley Research Center, Hampton, VA
-[August 2020 – December 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-[May 2020 – August 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-[December 2019 – Present] CSUN Autonomy Research Center for STEAHM, Northridge, CA
-[June 2019 – August 2019] Innovation Corps by The National Science Foundation, Northridge, CA
+- [June 2021 – Present] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [January 2021 – Present] NASA Langley Research Center, Hampton, VA
+- [August 2020 – December 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [May 2020 – August 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [December 2019 – Present] CSUN Autonomy Research Center for STEAHM, Northridge, CA
+- [June 2019 – August 2019] Innovation Corps by The National Science Foundation, Northridge, CA
 
 ## Projects & Professional Involvement
 
