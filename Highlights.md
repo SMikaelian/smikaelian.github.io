@@ -1,5 +1,5 @@
 ---
-title: "Highlights"
+title: ""
 permalink: "/highlights/"
 layout: page
 ---
