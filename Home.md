@@ -1,5 +1,5 @@
 ---
-#title: "Home"
+title: ""
 permalink: "/home/"
 layout: page
 ---
@@ -17,11 +17,11 @@ Graduation Date: Spring 2020
 ```
 ## Work Experience
 
-- [June 2021 – Present] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-- [January 2021 – Present] NASA Langley Research Center, Hampton, VA
-- [August 2020 – December 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-- [May 2020 – August 2020] NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
-- [December 2019 – Present] CSUN Autonomy Research Center for STEAHM, Northridge, CA
+- [June 2021 – Present] Fight Software Engineering Trainee (Pathways Co-Op) at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [January 2021 – Present] Artificial Intelligence Intern at NASA Langley Research Center, Hampton, VA
+- [August 2020 – December 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [May 2020 – August 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [December 2019 – Present] Research Fellow at CSUN Autonomy Research Center for STEAHM, Northridge, CA
 - [June 2019 – August 2019] Innovation Corps by The National Science Foundation, Northridge, CA
 
 ## Projects & Professional Involvement
