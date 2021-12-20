@@ -1,7 +1,7 @@
 title: "Sarkis Serge Mikaelian"
 author: "Sarkis S. Mikaelian"
 description: "NASA Armstrong Flight Research Center | University of Southern California (USC)"
-permalink: /home/
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
