@@ -11,7 +11,7 @@ layout: page
 - SUITS national challenge at NASA Johnson Space Center <strong>[Learn More](https://csunshinetoday.csun.edu/media-releases/csun-students-join-forces-with-nasa-to-design-next-generation-spacesuits/)</strong>
 - Grand Prize at CSUN CLOUD JAM competition <strong>[Learn More](https://csunshinetoday.csun.edu/uncategorized/beehive-monitoring-system-wins-csun-2020-cloud-jam/)</strong>
 - Grand Prize at Northrop Grumman Accessibility Competition <strong>[Learn More]()</strong>
-- Best Data Science & Best Reproducible Research at CSUN DATA JAM competition <strong>[Learn More]()</strong>
+- Best Data Science & Best Reproducible Research at CSUN DATA JAM competition <strong>[Learn More](https://csunshinetoday.csun.edu/health-and-fitness/students-propose-ways-to-strengthen-l-a-in-csuns-datajam-competition/)</strong>
 - Lucy Mission Ambassador at NASA <strong>[Learn More](https://www.lspace.asu.edu/lucy-ambassadors?pgid=kcwuq72v-96d76e70-6d9d-4966-8664-d491656b09d6)</strong>
 - 2021 Intern experience at NASA Neil A. Armstrong Flight Research Center <strong>[Learn More](https://ntrs.nasa.gov/api/citations/20210020121/downloads/Fiscal%20Year%202021%20Intern%20Experience%20Abstract%20Book.pdf)</strong>
 - 2020 Intern experience at NASA Neil A. Armstrong Flight Research Center <strong>[Learn More](https://ntrs.nasa.gov/api/citations/20205005473/downloads/FY20%20Abstract%20Book%20updated.pdf)</strong>
