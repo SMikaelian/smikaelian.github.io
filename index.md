@@ -1,7 +1,6 @@
 ---
-#title: "Home"
-permalink: "/home/"
-layout: page
+layout: default
+title: "Main"
 ---
 
 ## Education
