@@ -1,6 +1,7 @@
 title: "Sarkis Serge Mikaelian"
 author: "Sarkis S. Mikaelian"
 description: "NASA Armstrong Flight Research Center | University of Southern California (USC)"
+icon: fighter-jet
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
