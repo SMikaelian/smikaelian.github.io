@@ -35,11 +35,11 @@ Graduation Date: Spring 2020
 
 ## Leadership & Membership:
 
-- USC RPL – USC Rocket Propulsion Laboratory, Student Volunteer
-- National Aeronautics and Space Administration, Lucy Mission Ambassador
+- USC RPL – Rocket Propulsion Laboratory, Student Volunteer
+- NASA – National Aeronautics and Space Administration, Lucy Mission Ambassador
 - AIAA - American Institute of Aeronautics & Astronautics, Student Member
 - IEEE - Institute of Electrical and Electronics Engineers, Student Project Manager and Board Member
-- Civil Air Patrol [CAP] Squadron 128, sUAS Drone Applications Volunteer
+- CAP – Civil Air Patrol Squadron 128, sUAS Drone Applications Volunteer
 
 ## Awards & Certifications:
 
