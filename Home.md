@@ -8,7 +8,7 @@ layout: page
 ```
 Master of Science in Systems Architecting & Engineering
 University of Southern California, CA
-Graduation Date: Fall 2023
+Graduation Date: Spring 2024
 ```
 ```
 Bachelor of Science in Computer Science
@@ -16,8 +16,8 @@ California State University, Northridge, CA
 Graduation Date: Spring 2020
 ```
 ## Work Experience
-
-- [June 2021 – Present] Fight Software Engineering Trainee (Pathways Co-Op) at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
+- [May 2022 - Present] Flight Software Integration & Test Engineer (APX) at NASA Jet Propulsion Laboratory, Pasadena, CA
+- [June 2021 – May 2022] Fight Software Engineering Trainee (Pathways Co-Op) at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
 - [January 2021 – Present] Artificial Intelligence Intern at NASA Langley Research Center, Hampton, VA
 - [August 2020 – December 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA
 - [May 2020 – August 2020] Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center, Edwards Air Force Base, CA

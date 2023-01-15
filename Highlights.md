@@ -4,6 +4,7 @@ permalink: "/highlights/"
 layout: page
 ---
 
+- NASA Provides Opportunities and Career Paths for Student Researcher <strong>[Learn More](https://www.nasa.gov/feature/nasa-provides-opportunities-and-career-paths-for-student-researcher)</strong>
 - Poster session at NASA Neil A. Armstrong Flight Research Center <strong>[Learn More](https://ntrs.nasa.gov/api/citations/20205005210/downloads/Poster_AFRC_SARKIS_S_MIKAELIAN.pdf)</strong>
 - Showcasing Autonomy Research Center for STEAHM (ARCS) Research to the CSU Chancellor Joseph I. Castro <strong>[Learn More](https://csunshinetoday.csun.edu/university-news/csu-chancellor-visits-csun-campus-participates-in-community-open-forum/)</strong>
 - First Place at NASA Intern Challenge 2020 <strong>[Learn More](https://blogs.nasa.gov/interns/2020/11/02/space-station-20th-celebration-nasa-interns-put-the-art-in-smart/)</strong>
